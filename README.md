@@ -1,1 +1,1 @@
-# llm-func-net
+# Functional Brain Networks in Large Language Models
